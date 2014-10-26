@@ -5,7 +5,7 @@ A hexo filter plugin that generates richer post information for theme developers
 
 Features:
 - [ ] Automatic excerpt
-- [ ] Table of content
+- [x] Table of content
 - [x] Image list
 - [ ] Video list
 - [ ] Theme script extension

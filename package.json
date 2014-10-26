@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-richer",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A hexo filter plugin that generates richer post information for theme developers.",
   "main": "./lib/index",
   "repository": {
