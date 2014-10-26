@@ -7,7 +7,13 @@
     "type": "git",
     "url": "https://github.com/akfish/hexo-filter-richer.git"
   },
-  "keywords": ["website", "blog", "cms", "framework", "hexo"],
+  "keywords": [
+    "website",
+    "blog",
+    "cms",
+    "framework",
+    "hexo"
+  ],
   "author": "AKFish <akfish@gmail.com> (http://catx.me)",
   "license": {
     "type": "GPLv2",
@@ -19,6 +25,7 @@
   "dependencies": {
     "marked": "*",
     "path": "*",
-    "lodash": "*"
+    "lodash": "*",
+    "cheerio": "~0.17.0"
   }
 }
