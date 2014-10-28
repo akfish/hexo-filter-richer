@@ -4,7 +4,7 @@ hexo-filter-richer
 A hexo filter plugin that generates richer post information for theme developers.
 
 Features:
-- [ ] Automatic excerpt
+- [x] Automatic excerpt
 - [x] Table of content
 - [x] Image list
 - [ ] Video list
